@@ -35,8 +35,8 @@ function Hero() {
 
     window.speechSynthesis.cancel();
 
-    const speech = new SpeechSynthesisUtterance(
-  "My first project is Employee Management System, developed using Django, Django REST Framework and MySQL. It enables secure employee management with authentication and CRUD operations. My second project is End-to-End Sales Data Analysis, built using Python, SQL, PySpark and Databricks, where I analyzed over fifty thousand sales records to generate business insights. My third project is Fake News Detection, developed using Python, TensorFlow, Keras and Machine Learning techniques to classify news articles. My fourth project is AWS Infrastructure Automation, built using Terraform, AWS and Linux to automate cloud resource provisioning. My fifth project is an AWS Two Tier Student Registration Portal deployed using AWS EC2, Apache, PHP and MariaDB, demonstrating cloud deployment and web application hosting skills."
+   const speech = new SpeechSynthesisUtterance(
+  "My first project is Employee Management System, developed using Django, Django REST Framework, and MySQL. It provides secure authentication, employee management, and CRUD operations through a scalable backend architecture. My second project is End-to-End Sales Data Analysis, built using Python, SQL, PySpark, and Databricks, where I analyzed large-scale sales data to generate business insights and performance reports. My third project is Fake News Detection, developed using Python, TensorFlow, Keras, and Machine Learning algorithms to classify news articles as real or fake. My fourth project is AWS Infrastructure Automation, built using Terraform, AWS, and Linux to automate cloud resource provisioning through Infrastructure as Code. My fifth project is an AWS Two-Tier Student Registration Portal deployed using AWS EC2, Apache, PHP, and MariaDB, demonstrating cloud deployment, database integration, and web application hosting My sixth project is a Personal Portfolio Website developed using React.js, JavaScript, CSS3, GitHub, and Vercel, featuring responsive design, reusable components, project showcase, and automated deployment."
 );
 
     speech.voice = getFemaleVoice();
@@ -92,7 +92,7 @@ function Hero() {
   </div>
 
   <div className="stat-card">
-    <h3>3</h3>
+    <h3>4</h3>
     <span>Internships</span>
   </div>
 

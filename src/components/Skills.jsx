@@ -6,7 +6,8 @@ function Skills() {
       <div className="skills-grid">
 
         <div>Python</div>
-        <div>Core Java</div>
+        <div>Java</div>
+        <div>ServiceNow</div>
 
         <div>Django</div>
         <div>Django REST Framework</div>
@@ -36,6 +37,7 @@ function Skills() {
 
         <div>VS Code</div>
         <div>Render Deployment</div>
+        <div>Vercel Deployment</div>
 
       </div>
     </section>

@@ -66,6 +66,26 @@ function Internships() {
           </ul>
         </div>
 
+        <div className="internship-card">
+  <h3>Python Developer Intern – SkillVertex</h3>
+
+  <p><strong>Date:</strong> May 2024 – November 2024</p>
+
+  <p>
+    <strong>Tech Stack:</strong> Python, SQL, OOP, Data Structures
+  </p>
+
+  <ul>
+    <li>
+      Developed and debugged Python applications using Object-Oriented Programming (OOP), Data Structures, Functions, and File Handling concepts.
+    </li>
+
+    <li>
+      Applied Python and SQL in hands-on projects, enhancing problem-solving, debugging, data processing, and software development skills.
+    </li>
+  </ul>
+</div>
+
       </div>
 
     </section>

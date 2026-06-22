@@ -5,6 +5,7 @@ import salesImg from "../assets/sales.jpg";
 import fakeNewsImg from "../assets/fake-news.jpeg";
 import awsAutomationImg from "../assets/aws-automation.jpg";
 import studentPortalImg from "../assets/student-portal.jpg";
+import portfolioImg from "../assets/Shivani-Portfolio.png";
 
 function Projects() {
 
@@ -75,7 +76,21 @@ function Projects() {
       github:
         "https://github.com/Malipolishivani330/AWS-2-Tier-Student-Registration-Portal-Deployment",
       demo: "#"
-    }
+    },
+
+    {
+  title: "Personal Portfolio Website",
+  category: "Frontend",
+  image: portfolioImg,
+  description:
+    "Developed and deployed a fully responsive portfolio website to showcase projects, technical skills, certifications, internships, and achievements.",
+  technologies:
+    "React.js • Vite • JavaScript • CSS3 • Git • GitHub • Vercel",
+  github:
+    "https://github.com/Malipolishivani330/shivani-portfolio",
+  demo:
+    "https://shivani-portfolio-eta.vercel.app"
+}
 
   ];
 
@@ -127,6 +142,13 @@ function Projects() {
         >
           Cloud
         </button>
+
+        <button
+  className="filter-btn"
+  onClick={() => setFilter("Frontend")}
+>
+  Frontend
+</button>
 
       </div>
 
