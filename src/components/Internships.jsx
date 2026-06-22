@@ -29,7 +29,7 @@ function Internships() {
         <div className="internship-card">
           <h3>AWS Solutions Architecture Job Simulation – Forage</h3>
 
-          <p><strong>Date:</strong> May 2025</p>
+          <p><strong>Date:</strong> Aug 2025</p>
 
           <p>
             <strong>Tech Stack:</strong> AWS Cloud Services, Architecture Design
