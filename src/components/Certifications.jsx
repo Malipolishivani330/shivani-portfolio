@@ -63,10 +63,18 @@ function Certifications() {
     {
       title: "Accenture Nordics Software Engineering Simulation",
       issuer: "Forage",
-      year: "2025",
+      year: "May 2025",
       icon: "💻",
       link: "https://drive.google.com/file/d/1kLTIGICKwk-WpiAyFzZNlkNl8bp6Sf25/view?usp=sharing"
-    }
+    },
+
+    {
+  title: "Python Developer Internship",
+  issuer: "SkillVertex",
+  year: "2024",
+  icon: "🐍",
+  link: "https://drive.google.com/file/d/1g2BgoQSU2j9T-ByghILL1FYBlebOVr2w/view?usp=sharing"
+}
 
   ];
 
